@@ -1,0 +1,257 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.title{
+    text-align: left;
+    display:flex;
+    background-color: black;
+    width: 100%;
+    height: 50vh;
+    justify-content: center; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    justify-content: center;
+    align-items: center; 
+} 
+
+.logo1{
+    width: 80%;
+    border-radius: 20px;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    background-color: black;
+}
+
+.contenedor2{
+    justify-content: center; 
+    margin: 5% 5%;
+}
+
+.contenedor3{
+    display: flex;
+    justify-content: left;
+}
+
+.contenedor4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.contenedor5{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.titled{
+    margin-bottom: 2%;
+    font-family: arial;
+    font-size: 30px;
+    color: white;
+}
+
+.pd{
+    font-family: calibri;
+    font-size: 13px;
+    margin-bottom: 2%;
+    color: white;
+}
+
+.btnd{
+    display: inline-block;
+    border: 1px solid white;
+    color: white;
+    text-decoration: none;
+    padding: 2% 20%; 
+    background-color: black;
+    border-radius: 2vh;
+    font-family: calibri;
+    font-size: 15px;
+    margin-bottom: 2px;
+    }
+
+.numerod{
+    font-size: 10px;
+}
+
+
+.imagen{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+.cap1 {
+    width: 40%;
+    margin: 2% 1%;
+    border-radius: 10px;
+}
+
+.titledis{
+    color: white;
+    font-size: 13px;
+    margin: 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.imagen2{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+.cap2{
+    width: 80%;
+}
+
+.preguntas-title{
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+
+.titlepre{
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.preguntas{
+    background-color: black;
+    margin-top: 30%;
+}
+
+.listap{
+    display: inline;
+}
+
+.pregunta{
+    color: white;
+    font-size: 11px;
+    right: 80px;
+    margin-left: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.respuesta{
+    color: white;
+    font-size: 10px;
+    right: 80px;
+    margin-left: 5%;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.virus{
+    color: white;
+
+}
+
+.iconul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.iconfi{
+    width: 40%;
+    right: 40%;
+}
+
+.icontitle{
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.iconp{
+    color: white;
+    font-size: 10px;
+    margin-right: 3%;
+    margin-left: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ayudanos{
+    display: flex;
+    margin: 5% 5%;
+    border: 1px solid white;
+    color: white;
+    text-decoration: none;
+    padding: 3% 3%; 
+    background-color: black;
+    border-radius: 1vh;
+    font-family: calibri;
+    font-size: 15px;
+    margin-bottom: 10%;
+    justify-content: center;
+    margin-top: 20%;
+}
+
+.politica{
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+margin: 10px 10px;
+font-size: 15px;
+}
+
+.politicaypriv{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10% 10px;
+    font-size: 20px;
+    }
+
+
+.priv{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 15px 10px;
+    font-size: 10px;
+        }
+
+
+.regresar{
+    color: white;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    margin: 5px 10px;
+    border-radius: 1vh;
+    border: 1px solid white;
+    padding: 3% 3%;
+}
+
+.return{
+    display: flex;
+    justify-content: center;
+    margin: 5%;
+}
+
+.indice{
+    margin: 5%;
+}
+
+.index2{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: right;
+}
+
+.index{
+    color: white;
+    border: 0px solid white;
+    padding: 5% 5%;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
